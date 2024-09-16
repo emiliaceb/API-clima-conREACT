@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+.baner{
+    object-fit: cover;
+    width: 100vw;
+    height: 5cm;
+    position: relative;
+}
+h1{
+    position: absolute;
+    top: 25%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    color: white!important; 
+    width: 100%; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
+}
+.fjalla-one-regular {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .navfondo{
+    background-color: #795458;
+  }
+  .infoclima{
+    color: white!important;
+  }
+  body{
+    background-color: #F5E7B2!important;
+  }
+  
